@@ -1,0 +1,2 @@
+# babyKittiesStatic
+vibe coded slop
